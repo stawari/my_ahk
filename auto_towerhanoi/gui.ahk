@@ -1,6 +1,6 @@
 #Include, <basic_default>
 #Include, hanoi_func.ahk
-
+; play game on https://mathsisfun.com/games/towerofhanoi.html
 CoordMode, Pixel, Screen
 CoordMode, Mouse, Screen
 
